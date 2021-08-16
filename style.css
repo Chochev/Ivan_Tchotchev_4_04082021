@@ -659,7 +659,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 30px;
+    font-size: 38px;
 }
 
 .hero-bloc-text-sub {
@@ -1032,6 +1032,9 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .hero-bloc-text {
+        font-size: 30px;
     }
 }
 
